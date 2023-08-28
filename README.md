@@ -4,6 +4,11 @@
 - Header
 - Login Form
 - Sign Up form
+- Form Validation
+- useRef Hook
+- Firebase Setup 
+- Deploy App on Production
+- Craete Signup in User A/c
 
 # Features
 - Login / SignUp
