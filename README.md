@@ -9,6 +9,10 @@
 - Firebase Setup 
 - Deploy App on Production
 - Craete Signup in User A/c
+- Impliment Sign In userAPI
+- Created Redux Store with userSlice
+- Implimented Sign Out Feature
+- Update Profile
 
 # Features
 - Login / SignUp
