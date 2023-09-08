@@ -15,6 +15,10 @@
 - Update Profile
 - BugFix: Sign up Display name
 - BugFix: If the user is not logged, Don't give access
+- Unsubscribed to the onAuthStateChanged callback
+- Add hardcoded values to Constants file
+- 
+- 
 
 # Features
 - Login / SignUp
