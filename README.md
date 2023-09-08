@@ -13,6 +13,8 @@
 - Created Redux Store with userSlice
 - Implimented Sign Out Feature
 - Update Profile
+- BugFix: Sign up Display name
+- BugFix: If the user is not logged, Don't give access
 
 # Features
 - Login / SignUp
