@@ -17,7 +17,8 @@
 - BugFix: If the user is not logged, Don't give access
 - Unsubscribed to the onAuthStateChanged callback
 - Add hardcoded values to Constants file
-- 
+- Register TMDB API & create an app & get access token
+- Get Data from TMDB now plating move list API
 - 
 
 # Features
