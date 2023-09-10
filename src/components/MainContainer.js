@@ -5,7 +5,7 @@ import VideoTitle from './VideoTitle';
 
 
 export const MainContainer = () => {
-  const movies = useSelector(store => store.movies?. nowPlayingMovies) 
+  const movies = useSelector(store => store.movies?.nowPlayingMovies) 
   
   if(!movies) return;
 
