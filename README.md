@@ -19,7 +19,14 @@
 - Add hardcoded values to Constants file
 - Register TMDB API & create an app & get access token
 - Get Data from TMDB now plating move list API
-- 
+- Custome Hook for Now Plating Movies
+- Create Movie Slice
+- Update Store with Movie data
+- Planing for Main and Secondary Container
+- Fetch data for Trailer Video
+- Update the Store with Trailer Video data
+- Embeded the YouTube Video and make it Autoplay n mute
+- Tailwind classes to make Main container look awesom
 
 # Features
 - Login / SignUp

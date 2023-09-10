@@ -54,7 +54,7 @@ const Login = () => {
                     // An error occurred
                   });
 
-                console.log(user);
+                // console.log(user);
                 navigate("/browse");
             })
             .catch((error) => {
